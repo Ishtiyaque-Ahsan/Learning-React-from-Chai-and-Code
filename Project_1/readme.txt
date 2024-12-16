@@ -1,0 +1,1 @@
+all notes in App.jsx
